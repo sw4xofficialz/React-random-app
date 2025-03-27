@@ -2,7 +2,10 @@
 my unfinished react project
 
 # Random App
-![jpg](https://i.hizliresim.com/1sk067m.jpg)
+```
+Sorry the image was lost due to poor quality:(
+```
+![jpg](https://hizliresim.com/rzdzkfx)
 
 ## Summary
 
