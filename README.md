@@ -5,7 +5,7 @@ my unfinished react project
 ```
 Sorry the image was lost due to poor quality:(
 ```
-![jpg](https://i.hizliresim.com/rzdzkfx)
+![jpg](https://i.hizliresim.com/1sk067m.jpg)
 
 ## Summary
 
